@@ -1,3 +1,5 @@
 # Movie App 2019
 
-React JS Fundamentals Course(2019 Update!)
+리액트 JS를 이용한 영화앱
+
+주소 : https://jeonh503.github.io/movie_app_2019/
