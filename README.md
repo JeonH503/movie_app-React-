@@ -2,4 +2,4 @@
 
 리액트 JS를 이용한 영화앱
 
-주소 : https://jeonh503.github.io/movie_app_2019/
+주소 : https://movie-app-byreact.herokuapp.com/
